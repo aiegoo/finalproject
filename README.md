@@ -5,6 +5,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![](http://hits.dwyl.com/aiegoo/finalproject.svg)](http://hits.dwyl.com/aiegoo/finalproject)
+[![HitCount][hit-shield]][hit-url]
 
 <br />
 <p align="center">
