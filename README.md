@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Final](htt://hits/dwyl.com/aiegoo/finalproject.svg)](http://hits.dwyl.com/aiegoo/finalproject)
+[![](http://hits.dwyl.com/aiegoo/finalproject.svg)](http://hits.dwyl.com/aiegoo/finalproject)
 
 <br />
 <p align="center">
