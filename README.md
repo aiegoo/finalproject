@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![FinalProject Hits][hit-shield][hit-url]
+[![FinalProject][hit-shield]
 
 <br />
 <p align="center">
