@@ -4,6 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![FinalProject Hits][hit-shield][hit-url]
 
 <br />
 <p align="center">
@@ -115,3 +116,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [license-url]: https://github.com/aiegoo/finalproject/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/tonyleekorea
+[hit-shield]: http://hits.dwyl.com/aiegoo/finalproject.svg?style=flat-square
+[hit-url]: http://hits.dwyl.com/aiegoo/finalproject
