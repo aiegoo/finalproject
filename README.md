@@ -118,4 +118,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/tonyleekorea
 [hit-shield]: http://hits.dwyl.com/aiegoo/finalproject.svg?style=flat-square
-[hit-url]: http://hits.dwyl.com/aiegoo/finalproject
+[hit-url]: http://hits.dwyl.com/aiegoo/finalproject/projects/1
