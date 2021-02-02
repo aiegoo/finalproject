@@ -49,8 +49,17 @@
 
 ## About the Project
 
+#### Introduction / statement of purpose
+
+My goal during and after this course is to design an autonomous UAS to work under any circumstances for logistics industry. While this goal is too broad and requires different fileds of apprentice, I have focused on different GSC and simulatior platforms such as QGC, Gazebo, Matlab, Cleanflight Configurator and FCND among others. I have also used various open source-based and proprieatry drones (see my hardwares). In this project, I have achieved the following:
+
+- Action pipeline based on bash scripts and webserver to pull and update code changes remotely. 
+- Python- and ROS-based connection to each nodes
+- Use of Kalman and other filters to produce navigatable simulation maps. 
 
 ## Setup
+
+
 
 ## Run
 
