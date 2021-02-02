@@ -56,6 +56,9 @@ My goal during and after this course is to design an autonomous UAS to work unde
 - Action pipeline based on bash scripts and webserver to pull and update code changes remotely. 
 - Python- and ROS-based connection to each nodes
 - Use of Kalman and other filters to produce navigatable simulation maps. 
+- Plotting realtime data
+
+When successfully deployed, I should be able to monitor the vehicle status and react to events remotely through script changes, reducing human involvement in most normal UAS operation.
 
 ## Setup
 
