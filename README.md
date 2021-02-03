@@ -71,7 +71,7 @@ When successfully deployed, I should be able to monitor the vehicle status and r
 
 #### Matplotlib planning
 
-:100: as built in the Motion Planner
+as built in the Motion Planner :100:
 
 1. Grid
 2. Medial Axis
@@ -80,13 +80,15 @@ When successfully deployed, I should be able to monitor the vehicle status and r
 
 
 <p align="center">
-    <img src="misc/allplots.png" alt="Matplot plots" width="1100" height="300'></p>                                                                          
+    <img src="misc/allplots.png" alt="Matplot plots" width="1100" height="300'> 
+</p>                                                                          
 
 <hr>
 
-### Simulator Planning
+<hr>
+<hr>
+<hr>
 
-### Matplotlib Planning
 
 ### Control and Estimation Simulator
 
