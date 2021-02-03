@@ -84,6 +84,17 @@ To use the simulator for control testing, follow these steps :
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
+#### references
+* Kalman filters, MCL algorithms, Occupancy Grid Mapping algorithm, FastSLAM, GraphSLAM, ROS Navigation Stack 7, Probabilistic Patn Planning, Udacity Drone FCND, KUKA Path planning, OpenCV, RNN, CNN.
+* books referenced in this project:
+```
+Mastering ROS for Robotics Programming Packt
+Learning ROS for Robotic Programming 2nd Edition
+ROS for Beginners, Basics, Motion and OpenCV
+ROS로보틱스 
+Boost.Asio C++ 네트워크 프로그래밍 쿡북
+```
+
 ### Contribute on proposed features
 
 To create a PR:
