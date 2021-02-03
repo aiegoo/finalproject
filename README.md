@@ -63,7 +63,7 @@ When successfully deployed, I should be able to monitor the vehicle status and r
 ## Setup
 > overview
 
-![overview](https://user-images.githubusercontent.com/42961200/106680621-3d56d280-6602-11eb-989b-01c276b1f295.jpeg)
+![overview](https://user-images.githubusercontent.com/42961200/106695971-0e9b2500-661f-11eb-999a-f4dfb98178f1.jpeg)
 
 
 
