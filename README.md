@@ -68,11 +68,13 @@ When successfully deployed, I should be able to monitor the vehicle status and r
 
 
 ## Run
+
 #### Matplotlib planning
 
 <p align="center">
     <img src="misc/allplots.png" alt="Matplot plots" width="1100" height="300'></a></p>                                                                          
 
+<hr>
 :100: as built in the Motion Planner
 
 1. Grid
