@@ -61,6 +61,9 @@ My goal during and after this course is to design an autonomous UAS to work unde
 When successfully deployed, I should be able to monitor the vehicle status and react to events remotely through script changes, reducing human involvement in most normal UAS operation.
 
 ## Setup
+> overview
+
+![overview](https://user-images.githubusercontent.com/42961200/106680621-3d56d280-6602-11eb-989b-01c276b1f295.jpeg)
 
 
 
