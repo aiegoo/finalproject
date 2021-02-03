@@ -79,9 +79,9 @@ as built in the Motion Planner :100:
 4. Heuristic Graph
 
 
-<div align="center">
-    <img src="misc/allplots.png" alt="Matplot plots" width="1100" height="300'> 
-</div>                                                                          
+<p align="center">
+    <img src="misc/allplots.png" alt="Matplot plots" width="1100" height="300"> 
+</p>                                                                          
 
 <hr>
 
