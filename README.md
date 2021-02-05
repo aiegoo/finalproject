@@ -91,6 +91,15 @@ as built in the Motion Planner :100:
 
 To use the simulator for control testing, follow these steps :
 
+## Visualization
+
+> model class
+```
+SessionSerializer, MovementSerializer, GlobalPoistionSerializer, GlobalHomeSerializer, LocalPositionSerializer, LocalHomeSerializer, LocalVelocitySerializer, etc
+```
+
+:hammer: I've never been a good db person who still loves to dump everything in a single db table, but the data flowing out from the flight data and a flying vehicle. I expected the db can love me back in selfishless ways, but it turned out that I have to take the bulls by the horn, alas with allmighty and still unsuccesful. This project proves that there are a long way to go for me. Hooray!!
+
 
 ### Simulator Control
 
