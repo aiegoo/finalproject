@@ -84,7 +84,9 @@ as built in the Motion Planner :100:
 <p align="center">
     <img src="misc/allplots.png" alt="Matplot plots" width="1100" height="300"> 
 </p>                                                                          
-
+<p align="center">
+    <img src="misc/map.png" alt="sfranscico downtown" width="200" height="150"
+</p>
 <hr>
 
 
