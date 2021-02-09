@@ -4,7 +4,7 @@ This section lists the hardware I've used in this project
 
 | type   | name   | fc   | sensor1   | sensor2   |
 |:---|:--:|:--:|:--:|---:|
-| land   |  jetbot  | jetson nano   |  camera  |    |
+| land   |  Traxxa Stampede  | -   |  camera  |    |
 |    |    |    |    |    |
 | Air   | bebop2   | apm(?)   | android  |  fpv camera  |
 |    |    |    | arduino wifi   |    |
