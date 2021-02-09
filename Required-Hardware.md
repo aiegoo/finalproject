@@ -13,7 +13,7 @@ This section lists the hardware I've used in this project
 |    | dji   | naza m lite   |  fpv camera  |    |
 |    |    |    |follding    |  -  |
 |    |    |  -  |  -  |  -  |
-|    | jti   | pixhawk   | -   | -   |
+|    | Used   | pixhawk   | -   | -   |
 |    |    |    |  -  |  -  |
 |    |  sky (흰색) |  naze32   | camera   |  -  |
 |    |    | cleanflight   |  -  | -   |
