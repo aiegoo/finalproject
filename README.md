@@ -104,9 +104,13 @@ SessionSerializer, MovementSerializer, GlobalPoistionSerializer, GlobalHomeSeria
 
 :hammer: I've never been a good db person who still loves to dump everything in a single db table, but the data flowing out from the flight data and a flying vehicle can be msasscaring any semblance of solidines of database structues. I expected the db can love me back in selfishless ways, but it turned out that I have to take the bulls by the horn, alas with allmighty and still unsuccesful. Even with the Django's third-party rest_framework,  this project proves that there is a long way to go for me. Hooray!!
 
+> simulator
+
 [![finalproject](misc/drone-logo.png)](https://youtu.be/E7Fl_TwEi_I)
 
 <hr>
+
+> frontend integration
 
 [![pf-frontend](misc/Artboard1.png)](https://youtu.be/8dkMs62s8-w)
 
