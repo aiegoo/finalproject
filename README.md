@@ -106,10 +106,9 @@ SessionSerializer, MovementSerializer, GlobalPoistionSerializer, GlobalHomeSeria
 
 > simulator
 
-<div style="width: 200px" markdown="1">
+
 [![finalproject](misc/drone-logo.png)](https://youtu.be/E7Fl_TwEi_I)
-img[alt=drone-logo]
-    </div>
+
     
 <hr>
 
