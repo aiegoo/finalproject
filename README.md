@@ -36,10 +36,10 @@
 - [About the Project](#about-the-project)
 - [Setup](#setup)
 - [Run](#run)
-  - [Simulator Planning](#simulator-planning)
+  - [Simulator Planning](#simulator-planning) - Unity
   - [Matplotlib Planning](#matplotlib-planning)
-  - [Control and Estimation Simulator](#control-and-estimation-simulator)
-  - [Simulator Control](#simulator-control)
+  - [Visualization](#Visualization)
+  - [Simulator Control](#simulator-control) - Unity
 - [Roadmap](#roadmap)
 - [Contribute](#contribute)
   - [Contribute on proposed features](#contribute-on-proposed-features)
