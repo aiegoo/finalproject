@@ -27,7 +27,7 @@
     <a href="https://github.com/aiegoo/finalproject/pulls">Pull Request</a>
   </p>
 </p>
-[googledocs file](https://docs.google.com/document/d/1Qm3wPX6avlFVy6BahFfp8X-skUXxXDU26JX0ie-TXc8/edit?usp=sharing)
+
 
 
 ## Table of Contents
@@ -49,7 +49,7 @@
 
 ## About the Project
 
-#### Introduction / statement of purpose 
+#### Introduction / statement of purpose [googledocs file](https://docs.google.com/document/d/1Qm3wPX6avlFVy6BahFfp8X-skUXxXDU26JX0ie-TXc8/edit?usp=sharing)
 
 My goal during and after this course is to design an autonomous UAS to work under any circumstances for the logistics industry. While this goal is too broad and requires various apprentices in the field of navigation, aeronautics and programming in low-level to higher-level languages, I have focused on different GSC and simulator platforms such as QGC, Gazebo, Matlab, Cleanflight Configurator and FCND among others. I have also used various open-source and proprietary drones (see my [hardwares](./Required-Hardware.md)). In this project, I have achieved the following:
 
