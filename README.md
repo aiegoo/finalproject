@@ -24,10 +24,10 @@
     ·
     <a href="https://github.com/aiegoo/finalproject/issues">Report Bug</a>
     ·
-    <a href="https://github.com/aiegoo/finalproject/pulls">Gooogledoc report</a> [](https://docs.google.com/document/d/1Qm3wPX6avlFVy6BahFfp8X-skUXxXDU26JX0ie-TXc8/edit?usp=sharing)
+    <a href="https://github.com/aiegoo/finalproject/pulls">Pull Request</a>
   </p>
 </p>
-
+[googledocs file](https://docs.google.com/document/d/1Qm3wPX6avlFVy6BahFfp8X-skUXxXDU26JX0ie-TXc8/edit?usp=sharing)
 
 
 ## Table of Contents
