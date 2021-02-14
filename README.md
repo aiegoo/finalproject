@@ -34,7 +34,7 @@
 
 - [Table of Contents](#table-of-contents)
 - [About the Project](#about-the-project)
-    - [Introduction / statement of purpose](#introduction--statement-of-purpose)
+    - [Introduction / statement of purpose googledocs file](#introduction--statement-of-purpose-googledocs-file)
 - [Setup](#setup)
 - [Run](#run)
     - [Matplotlib planning](#matplotlib-planning)
@@ -63,12 +63,14 @@ My goal during and after this course is to design an autonomous UAS to work unde
 When successfully deployed, I should be able to monitor the vehicle status and react to events remotely through script changes, reducing human involvement in most normal UAS operations.
 
 ## Setup
+
 > overview
 
-![overview](https://user-images.githubusercontent.com/42961200/106695971-0e9b2500-661f-11eb-999a-f4dfb98178f1.jpeg)
+![overview](misc/slam.jpeg)
 
 > lora on drones
-![C5FDABEA-D6D0-4F34-AD8F-7899E8040B9A](https://user-images.githubusercontent.com/42961200/107081396-f51ff600-6835-11eb-98bd-505a62399bdc.jpeg)
+
+![C5FDABEA-D6D0-4F34-AD8F-7899E8040B9A](misc/lora.jpeg)
 
 
 ## Run
