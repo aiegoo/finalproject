@@ -117,6 +117,11 @@ SessionSerializer, MovementSerializer, GlobalPoistionSerializer, GlobalHomeSeria
 ### Simulator Control
 
 ## Roadmap
+Integrating hardware and simulator is not accomplished so far, due to defective hardware. It took so long to realize most of the issues I got have been direct results of the degrading materials provided, which I had to  replace with my own. 
+
+And lastly but not singularly, I realized that most of the hard work could have been avoidable once you know what libraries or filters you can use, specific to each and every requirements. I am glad to have discovered these libraries such as kalman. 
+
+My next assignment is to mix up and make it work on a real drone and do the transfer learning, with master/slave connectivity on lorawan.
 
 ## Contribute
 
