@@ -139,7 +139,7 @@ Boost.Asio C++ 네트워크 프로그래밍 쿡북]
 ```
 | | | |
 | -- | -- | -- |
-| [프로그래밍 쿡북](https://github.com/aiegoo/uas-reference/blob/master/network/boostasio.pdf) | [ros for absolute beginners](https://github.com/aiegoo/uas-reference/blob/master/ros/rosbeinner.pdf) | [learning robotics](https://github.com/aiegoo/uas-reference/blob/master/ros/learningros.pdf)
+| [프로그래밍 쿡북](https://github.com/aiegoo/uas-reference/blob/master/network/boostasio.pdf) | [ros for absolute beginners](https://github.com/aiegoo/uas-reference/blob/master/ros/rosbeginner.pdf) | [learning robotics](https://github.com/aiegoo/uas-reference/blob/master/ros/learningros.pdf)
 
 ### Contribute on proposed features
 
